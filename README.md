@@ -10,24 +10,19 @@
 ##
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TavaresItalo01&theme=darkhub&no-frame=true&row=1&column=6"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TavaresItalo01/TavaresItalo01/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TavaresItalo01&theme=github-dark"/>
 </div>
 
 ##
-<div> 
-<img src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="200"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 16px;">
+      <div style="background:#0d1117; padding:14px; border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,.4);">
+        <img src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="260" style="border-radius:12px;">
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ##
