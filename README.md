@@ -10,14 +10,6 @@
 ##
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TavaresItalo01&theme=github-dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TavaresItalo&style=for-the-badge&color=blue"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TavaresItalo01&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
