@@ -23,6 +23,12 @@
 
 ##
 
+<img src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="400"/>
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400"/>
+
+##
+
 <div style="display: inline-block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
