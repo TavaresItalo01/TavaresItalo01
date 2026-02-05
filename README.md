@@ -5,7 +5,7 @@
 - 🌱 Estudando SAP/ABAP
 - 📫 E-mail: tavares.italo@outlook.com
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Torcedor do Sport Club do Recife (O Maior do Nordeste)
+- ⚡ Fun fact: Torcedor do Sport Club do Recife (O Maior do Nordeste) e fã da saga Senhor dos Anéis
 
 ##
 
@@ -23,9 +23,8 @@
 
 ##
 
-<img src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="200"/>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400"/>
 
 ##
 
