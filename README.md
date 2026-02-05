@@ -10,10 +10,23 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/TavaresItalo01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TavaresItalo01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresItalo01&layout=compact&theme=github_dark"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=TavaresItalo01&theme=github-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TavaresItalo&style=for-the-badge&color=blue"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TavaresItalo01&theme=darkhub&no-frame=true&row=1&column=6"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TavaresItalo01/TavaresItalo01/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TavaresItalo01&theme=github-dark"/>
 </div>
 
 ##
@@ -33,7 +46,7 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-##
+
 
 <div>
   <a href="https://instagram.com/titotavares" target="_blank">
